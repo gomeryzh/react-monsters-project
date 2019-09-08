@@ -1,8 +1,8 @@
 {
-  "name": "monsters",
+  "name": "react-monsters-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gomeryzh.github.io/monsters",
+  "homepage": "https://gomeryzh.github.io/react-monsters-project",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
